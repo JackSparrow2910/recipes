@@ -10,7 +10,8 @@
 * avocado
 * salt
 
-Enjoy guacamole from Mexico! Eat with nachos
+Enjoy delicious guacamole from Mexico! Eat with nachos
+
 
 
 
