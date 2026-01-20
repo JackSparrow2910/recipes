@@ -6,5 +6,7 @@
 ## Instructions
 * peel the avocado
 * grate lime
+* mix avocado and salt
+
 
 
