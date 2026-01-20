@@ -9,7 +9,7 @@
 * avocado
 * salt
 
-Enjoy guacanole from Mexico
+Enjoy guacamole from Mexico!
 
 
 
