@@ -3,6 +3,7 @@
 * avocado
 * lime
 * salt
+* pepper
 ## Instructions
 * peel the avocado
 * grate lime
