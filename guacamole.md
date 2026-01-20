@@ -6,7 +6,8 @@
 ## Instructions
 * peel the avocado
 * grate lime
-* mix avocado and salt
+* avocado
+* salt
 
 Enjoy guacanole from Mexico
 
